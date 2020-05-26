@@ -4,8 +4,6 @@ import plotly
 import matplotlib.dates as mdates
 import numpy as np
 
-
-
 plotly.tools.set_credentials_file(username='lveiga', api_key='bFPbRfNhB5buO2FeU2r2')
 
 def bytespdate2num(fmt, encoding='utf-8'):
